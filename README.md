@@ -1,10 +1,10 @@
 hubot-otaku-scripts
 ===================
 
-`anime.coffee` tokyo anime schedule
+`anime.coffee` - tokyo anime schedule
 ```
 hubot> hubot anime
-hubot> 今夜は5つのアニメが放送されるよ！
+今夜は5つのアニメが放送されるよ！
 　22:30 グラスリップ 5話
 　23:00 白銀の意思 アルジェヴォルン 5話
 　24:00 東京喰種トーキョーグール 5話
@@ -12,15 +12,15 @@ hubot> 今夜は5つのアニメが放送されるよ！
 　26:16 普通の女子校生が【ろこどる】やってみた。 5話
 ```
 
-`forever17.coffee` you are seventeen forever
+`forever17.coffee` - you are seventeen forever
 ```
 hubot> hubot forever17 32
-hubot> 17歳と187ヶ月です☆
+17歳と187ヶ月です☆
 ```
 
-`zoi.coffee` originate from http://zoi.herokuapp.com
+`zoi.coffee` - originate from http://zoi.herokuapp.com
 ```
 hubot> hubot zoi
-hubot> がんばる
-hubot> https://pbs.twimg.com/media/BspTawrCEAAwQnP.jpg
+がんばる
+https://pbs.twimg.com/media/BspTawrCEAAwQnP.jpg
 ```
